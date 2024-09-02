@@ -5,8 +5,9 @@
 **Commands to run tool in ur terminal Termux && Kali Linux**
 
 _facebook hacking_ 👍🏼
-![_5619ffb8-062e-495f-8d5c-6b8e61313e3f](
-)
+
+![_5619ffb8-062e-495f-8d5c-6b8e61313e3f](https://github.com/user-attachments/assets/6b60281a-ed9b-4afa-9509-a9b2b6f5c6a1)
+
 
 > installation
 `Note : Tool is Made of Educational Purposes only.
@@ -29,9 +30,7 @@ cd Facebook_hack
 bash setup
 ``` 
 ```python
-```python
-
-``` 
+python facebook_hack.py
 ``` 
 ### **usage:)**
 
