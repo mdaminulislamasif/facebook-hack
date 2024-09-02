@@ -20,7 +20,7 @@ apt update && apt upgrade -y
 apt install git -y
 ``` 
 ```python
-git clone https://github.com/hackerxphantom/Facebook_hack.git
+git clone https://github.com/mdaminulislamasif/facebook-hack.git
 ``` 
 ```python
 cd Facebook_hack
